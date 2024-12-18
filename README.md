@@ -4,7 +4,6 @@ Atsisiuskyte zip faila, ir istraukite setup.exe/msi faila. Suinstaliokite progra
 
 Naudojimosi instrukcija:
 
-Pasirinkite ar norite pamatyti visus pasikartojancius zodzius (spauskite 1), ar visus URL (spauskite 2).
-
+Pasirinkite ar norite pamatyti visus pasikartojancius zodzius (spauskite 1), ar visus URL (spauskite 2).  
 2.1 Paspausdus 1 pasirinkite norite naudoti mazesni ar diesni teksta; du failai ("cross_reference" ir "zodziai") turetu atsirasti "Program Files x86" -> "VU" -> "Darja-Baranova" aplankale.  
 2.2 Paspausdus 2 pasirinkite norite pamatyti rezultata ekrane ar sukurti faila; 
